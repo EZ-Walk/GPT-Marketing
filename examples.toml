@@ -1,0 +1,15 @@
+# FILEPATH: /Users/ethanwalker/Documents/Projects/GPT-Marketing/examples.toml
+
+# Example of prompts for a large language model
+["Cover Letter"]
+content_type = "Cover letter"
+audience = "hiring manager at Vail Resorts"
+writing_sample = """
+I thought I'd go back and create a little streamlit demo of the project to showcase the functionality. Upon review, I can't figure out a way to apply the functionality of the app I built. There is code in there that out performed the state of the art in spell checking but no way to actually use it. 
+So, one lesson is clear. Losing sight of the use case and the user experience of an app will doom it to failure.
+I need to refocus my work with Allies on the user experience. 
+And my response is clear as well. I have to fix this in order to learn from it. So I’ll start again from project definition.
+"""
+objective = "To get a job at vail resorts"
+prompt = "Please write a friendly cover letter for this position highlighting my data analytics skills and my passion for skiing"
+
